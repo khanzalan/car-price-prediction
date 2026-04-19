@@ -1,4 +1,4 @@
-# my-python-project
+# car-price-prediction
 Predicting used car selling prices using Linear Regression on a dataset of 300+ cars and bikes across brands like Maruti, Toyota, Hyundai, and Honda.
 ## 🚗 Car Price Prediction – Linear Regression
 
